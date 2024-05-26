@@ -1,0 +1,1 @@
+"The Teenage Entrepreneur" project was created as part of an English course on entrepreneurship. It is an open-source project, which means that anyone can contribute to it or use it for educational purposes.
